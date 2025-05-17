@@ -53,6 +53,7 @@ A powerful and intuitive web application built with **Streamlit** that enables u
 
 1. Clone the repository:
     ```bash
+    cd venv
     git clone https://github.com/ALIADE1/NLP-Project.git
     mv NLP-Project src
     cd src
