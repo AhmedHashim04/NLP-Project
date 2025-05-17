@@ -39,7 +39,8 @@ A powerful and intuitive web application built with **Streamlit** that enables u
 1. Clone the repository:
     ```bash
     git clone https://github.com/ALIADE1/NLP-Project.git
-    cd NLP-Project
+    mv NLP-Project src
+    cd src
     ```
 
 2. Install dependencies:
