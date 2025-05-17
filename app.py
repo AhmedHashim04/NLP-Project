@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template, jsonify
-from summarization_core import summarize_text, analyze_sentiment
-from fetch_text_from_url import fetch_text
-from data_processing import clean_text
+from .summarization_core import summarize_text, analyze_sentiment
+from .fetch_text_from_url import fetch_text
+from .data_processing import clean_text
 from collections import Counter
 
 import matplotlib.pyplot as plt
