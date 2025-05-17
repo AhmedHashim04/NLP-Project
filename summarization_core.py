@@ -1,4 +1,4 @@
-from data_processing import clean_text, get_sentences
+from .data_processing import clean_text, get_sentences
 from collections import Counter
 from textblob import TextBlob
 import logging
