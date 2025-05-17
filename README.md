@@ -36,6 +36,21 @@ A powerful and intuitive web application built with **Streamlit** that enables u
 
 ### Installation
 
+0. Create and activate a virtual environment:
+
+   - On Linux/MacOS:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+
+   - On Windows:
+     ```bash
+     python -m venv venv
+     .\venv\Scripts\activate
+     ```
+
+
 1. Clone the repository:
     ```bash
     git clone https://github.com/ALIADE1/NLP-Project.git
@@ -50,7 +65,7 @@ A powerful and intuitive web application built with **Streamlit** that enables u
 
 3. Run the application:
     ```bash
-    streamlit run app.py
+    flask --app app.py run
     ```
 
 ---
