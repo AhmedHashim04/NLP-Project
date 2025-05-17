@@ -1,6 +1,6 @@
 # 📝 Text Summarizer with Sentiment Analysis
 
-A powerful and intuitive web application built with **Streamlit** that enables users to input text or provide a URL, generating a concise summary and performing sentiment analysis. The app also provides insightful visualizations of the top 5 most frequent words in the input text, all within a modern, dark-themed interface.
+A powerful and intuitive web application built with **Flask** that enables users to input text or provide a URL, generating a concise summary and performing sentiment analysis. The app also provides insightful visualizations of the top 5 most frequent words in the input text, all within a modern, dark-themed interface.
 
 ---
 
