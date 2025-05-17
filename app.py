@@ -3,11 +3,12 @@ from summarization_core import summarize_text, analyze_sentiment
 from fetch_text_from_url import fetch_text
 from data_processing import clean_text
 from collections import Counter
+
 import matplotlib.pyplot as plt
 import logging
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder="templates")
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
