@@ -94,7 +94,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌟 Acknowledgments
 
-- **Streamlit** for providing an excellent framework for building data-driven web apps.
 - **NLTK** and **TextBlob** for natural language processing capabilities.
 - Open-source libraries and the developer community for their invaluable contributions.
 
